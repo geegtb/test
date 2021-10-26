@@ -1,6 +1,5 @@
 <?php
 
-mmmm
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+phpinfo();
 
-nm
+echo 'haha';
