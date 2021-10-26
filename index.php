@@ -2,4 +2,4 @@
 
 phpinfo();
 
-echo 'haha';
+echo 'haha  test2';
